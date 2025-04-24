@@ -1,4 +1,4 @@
-# **Liver and Liver Tumor Segmentation: A Comparison of Model Efficacy**
+# **Breast Cancer Detection & Segmentation: A Comparison of Model Efficacy**
 
 ## Description
 This project aims to benchmark various image segmentation machine learning models. In order to do so, we will make use of the Breast Ultrasound Images Dataset. One motivation for doing so is that the early and accurate identification of breast tumors is crucial for timely medical intervention and improved patient outcomes. This dataset is available on Kaggle: [https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset). 
