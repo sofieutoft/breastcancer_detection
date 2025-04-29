@@ -1,0 +1,8 @@
+.venv
+
+data/*
+clustered*
+
+clustered_*.png
+segformer-busi/
+logs/
